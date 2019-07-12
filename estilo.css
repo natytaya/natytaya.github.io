@@ -5,13 +5,13 @@ padding:0;
 body{
 	font-size: 1em;
 	font-family: Calibri, Tahoma, sans-serif;
-	background:#ecf9f5; /*#FFF ;*/
+	background:#ecf9f5; 
 	width: auto;
 
 /*layout*/
 }
 #cabecalho{
-	background:#339980; /*#EB494B;*/
+	background:#339980; 
 	padding:15px ;
 	text-align: center;
 	color: #C00B2C;
@@ -25,31 +25,31 @@ padding:10px;
 }
 
 #conteudo{
-background:#ffb84d; /*#ec9c90;*/
+background:#ffb84d; 
 width: 920px;	
-border-top: 2px solid #b32d00; /*#C00B2C;*/
+border-top: 2px solid #b32d00; 
 margin: 0 auto;
 padding:10px;
 color: #ccc;
 }
 
 .postagem {
-	background: #339980; /*#EB494B;*/
-	color: #b32d00; /*#3F1A21;*/
+	background: #339980; 
+	color: #b32d00; 
 	width:auto;
 	padding:10px;
 	margin: 10px;
 }
 
 .topicos{
-	background:#ffcc80; /*#ec9c90;*/
-	color: #3F1A21; /*#b32d00;*/
+	background:#ffcc80; 
+	color: #3F1A21; 
 	padding:5px; 
 	margin: 3px;
-	/*border-top: 1px dotted #b32d00;  dashed #C00B2C;*/
+	
 }
 #rodape {
-	background: #339980; /*#EB494B;*/
+	background: #339980; 
 	width: 920px;
 	text-align: center;
 	color: #FFF;
@@ -70,7 +70,7 @@ a:link, a:visited {
 
 a:hover {
 	background:#FFF;
-	color: #b32d00; /*#EB494B;*/
+	color: #b32d00; 
 }
 a:active {
 	background:#FFF;
@@ -78,20 +78,21 @@ a:active {
 }
 
 /*formatacoes gerais*/
+
 #cabecalho h1{
 	color:#3F1A21;
 	font-size: 2.5em;
 	padding-left: 5px;	
-	text-decoration: underline #b32d00; /*#C00B2C;*/
+	text-decoration: underline #b32d00; 
 }
 
 #conteudo h1{
-	color: #FFF; /*3F1A21;*/
+	color: #FFF; 
 	font-size: 1.5em;
 }
 
 #conteudo h3{
-	color:  #661a00; /* #b32d00; #3F1A21;*/
+	color:  #661a00; 
 	font-size: 1em;
 	}
 
@@ -102,7 +103,7 @@ li{
 a.linkstexto {
 	padding:0px;
 	margin: 0px;
-	color: #661a00; /*#b32d00;  */
+	color: #661a00; 
 	font-weight: bold;
 	text-decoration: none;
 }
