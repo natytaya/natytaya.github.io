@@ -68,7 +68,7 @@ a:link, a:visited {
 	padding:8px 12px;
 }
 
-a:hover {
+a:hover, .selecionado {
 	background:#FFF;
 	color: #b32d00; 
 }
